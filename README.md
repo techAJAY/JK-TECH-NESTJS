@@ -1,2 +1,2 @@
 # JK-TECH-NESTJS
-project is crated for jktech for nestjs position
+project is created for jktech nestjs backend
