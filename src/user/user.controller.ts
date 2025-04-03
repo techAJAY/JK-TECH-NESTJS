@@ -30,7 +30,5 @@ export class UserController {
     return this.userService.updateRole(id, roleDto.role);
   }
 }
-// function ApiBody(arg0: { type: any; }): (target: UserController, propertyKey: "create", descriptor: TypedPropertyDescriptor<(payload: CreateUserDto, req: Request) => Promise<ResponseBody>>) => void | TypedPropertyDescriptor<...> {
-//     throw new Error('Function not implemented.');
-// }
+
 
